@@ -1,0 +1,1 @@
+<?php $account_verification_token = "<Enter Token>"; // Enter the verification code after authorization. ?>
